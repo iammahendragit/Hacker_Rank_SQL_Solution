@@ -25,7 +25,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |20|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather-Observation-Station-12.sql)|
 |21|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Type%20of%20Triangle.sql)|
 |22|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/The%20PADS.sql)|
-|23|[]()|[SQL]()|
+|23|[Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Occupations.sql)|
 |24|[]()|[SQL]()|
 |25|[]()|[SQL]()|
 |26|[]()|[SQL]()|
