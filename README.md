@@ -23,7 +23,19 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |18|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather-Observation-Station-10.sql)|
 |19|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather-Observation-Station-11.sql)|
 |20|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather-Observation-Station-12.sql)|
-|21|[]()|[SQL]()|
+|21|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Type%20of%20Triangle.sql)|
+|22|[]()|[SQL]()|
+|23|[]()|[SQL]()|
+|24|[]()|[SQL]()|
+|25|[]()|[SQL]()|
+|26|[]()|[SQL]()|
+|27|[]()|[SQL]()|
+|28|[]()|[SQL]()|
+|29|[]()|[SQL]()|
+|30|[]()|[SQL]()|
+|31|[]()|[SQL]()|
+|32|[]()|[SQL]()|
+
 
 
 
