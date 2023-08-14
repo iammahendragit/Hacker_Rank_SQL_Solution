@@ -28,7 +28,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |23|[Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Occupations.sql)|
 |24|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Binary%20Tree%20Nodes.sql)|
 |25|[New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/New%20Companies.sql)|
-|26|[]()|[SQL]()|
+|26|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20The%20Count%20Function.sql)|
 |27|[]()|[SQL]()|
 |28|[]()|[SQL]()|
 |29|[]()|[SQL]()|
