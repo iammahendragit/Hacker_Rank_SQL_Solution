@@ -31,7 +31,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |26|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20The%20Count%20Function.sql)|
 |27|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)|
 |28|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20Averages.sql)|
-|29|[]()|[SQL]()|
+|29|[Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Average%20Population.sql)|
 |30|[]()|[SQL]()|
 |31|[]()|[SQL]()|
 |32|[]()|[SQL]()|
