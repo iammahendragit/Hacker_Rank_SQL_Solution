@@ -35,7 +35,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |30|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Japan%20Population.sql)|
 |31|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Population%20Density%20Difference.sql)|
 |32|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/The%20Blunder.sql)|
-|33|[]()|[SQL]()|
+|33|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Top%20Earners.sql)|
 |34|[]()|[SQL]()|
 |35|[]()|[SQL]()|
 |36|[]()|[SQL]()|
