@@ -30,7 +30,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |25|[New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/New%20Companies.sql)|
 |26|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20The%20Count%20Function.sql)|
 |27|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)|
-|28|[]()|[SQL]()|
+|28|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20Averages.sql)|
 |29|[]()|[SQL]()|
 |30|[]()|[SQL]()|
 |31|[]()|[SQL]()|
