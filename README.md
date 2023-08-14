@@ -33,8 +33,25 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |28|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Revising%20Aggregations%20-%20Averages.sql)|
 |29|[Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Average%20Population.sql)|
 |30|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Japan%20Population.sql)|
-|31|[]()|[SQL]()|
+|31|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Population%20Density%20Difference.sql)|
 |32|[]()|[SQL]()|
+|33|[]()|[SQL]()|
+|34|[]()|[SQL]()|
+|35|[]()|[SQL]()|
+|36|[]()|[SQL]()|
+|37|[]()|[SQL]()|
+|38|[]()|[SQL]()|
+|39|[]()|[SQL]()|
+|40|[]()|[SQL]()|
+|41|[]()|[SQL]()|
+|42|[]()|[SQL]()|
+|43|[]()|[SQL]()|
+|44|[]()|[SQL]()|
+|45|[]()|[SQL]()|
+|46|[]()|[SQL]()|
+|47|[]()|[SQL]()|
+|48|[]()|[SQL]()|
+
 
 
 
