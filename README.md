@@ -44,7 +44,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |39|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2017.sql)|
 |40|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2018.sql)|
 |41|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2019.sql)|
-|42|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)|[SQL]()|
+|42|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2020.sql)|
 |43|[]()|[SQL]()|
 |44|[]()|[SQL]()|
 |45|[]()|[SQL]()|
