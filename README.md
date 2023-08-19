@@ -46,7 +46,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |41|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2019.sql)|
 |42|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2020.sql)|
 |43|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Population%20Census.sql)|
-|44|[]()|[SQL]()|
+|44|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/African%20Cities.sql)|
 |45|[]()|[SQL]()|
 |46|[]()|[SQL]()|
 |47|[]()|[SQL]()|
