@@ -47,7 +47,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |42|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Weather%20Observation%20Station%2020.sql)|
 |43|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Population%20Census.sql)|
 |44|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/African%20Cities.sql)|
-|45|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)|[SQL]()|
+|45|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Average%20Population%20of%20Each%20Continent.sql)|
 |46|[]()|[SQL]()|
 |47|[]()|[SQL]()|
 |48|[]()|[SQL]()|
