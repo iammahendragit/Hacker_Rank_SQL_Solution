@@ -50,7 +50,12 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |45|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Average%20Population%20of%20Each%20Continent.sql)|
 |46|[]()|[SQL]()|
 |47|[]()|[SQL]()|
-|48|[]()|[SQL]()|
+|49|[]()|[SQL]()|
+|50|[]()|[SQL]()|
+|51|[]()|[SQL]()|
+|52|[]()|[SQL]()|
+|53|[]()|[SQL]()|
+
 
 
 
