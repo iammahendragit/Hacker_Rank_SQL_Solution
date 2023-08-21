@@ -49,7 +49,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |44|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/African%20Cities.sql)|
 |45|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Average%20Population%20of%20Each%20Continent.sql)|
 |46|[The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/The%20Report.sql)|
-|47|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)|[SQL]()|
+|47|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)|[SQL](https://github.com/iammahendragit/Hacker_Rank_SQL_Solution/blob/main/Top%20Competitors.sql)|
 |49|[]()|[SQL]()|
 |50|[]()|[SQL]()|
 |51|[]()|[SQL]()|
