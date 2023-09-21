@@ -1,5 +1,5 @@
 ### Hacker_Rank_SQL_Solution
-The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL.
+The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL...
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
