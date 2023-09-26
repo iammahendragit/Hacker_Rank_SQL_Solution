@@ -56,6 +56,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |51|[]()|[SQL]()|
 |52|[]()|[SQL]()|
 |53|[]()|[SQL]()|
+|54|[]()|[SQL]()|
 
 
 
